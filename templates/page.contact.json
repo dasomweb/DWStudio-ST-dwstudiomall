@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "contact-form-section": {
+      "type": "contact-form",
+      "settings": {
+        "show_map": false,
+        "title": "Contact Us"
+      },
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "contact-form-section"
+  ]
+}
