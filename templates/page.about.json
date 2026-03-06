@@ -1,0 +1,13 @@
+{
+  "sections": {
+    "about-content": {
+      "type": "main-page",
+      "settings": {},
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "about-content"
+  ]
+}
