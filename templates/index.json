@@ -1,0 +1,119 @@
+{
+  "sections": {
+    "hero-slider": {
+      "type": "slideshow",
+      "settings": {
+        "height_vh": 70,
+        "autoplay_seconds": 5
+      },
+      "blocks": {
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "title": "Welcome to DW Studio Mall",
+            "subtitle": "Discover unique character lifestyle goods",
+            "button_label": "Shop Now",
+            "button_url": "/collections/all",
+            "overlay_opacity": 30,
+            "text_position": "center"
+          }
+        },
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "title": "Limited Edition Drop",
+            "subtitle": "Get your hands on our exclusive character designs",
+            "button_label": "Explore Collection",
+            "button_url": "/collections/new-arrivals",
+            "overlay_opacity": 30,
+            "text_position": "center"
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "title": "Cozy Character Universe",
+            "subtitle": "Express your personality with our adorable designs",
+            "button_label": "View All",
+            "button_url": "/collections/all",
+            "overlay_opacity": 30,
+            "text_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "slide-1",
+        "slide-2"
+      ]
+    },
+    "featured-collection-new": {
+      "type": "featured-collection",
+      "settings": {
+        "layout": "grid",
+        "columns_desktop": 4,
+        "columns_mobile": 2,
+        "products_to_show": 8,
+        "show_swatches": true,
+        "title": "New Arrivals"
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "image-with-text-about": {
+      "type": "image-with-text",
+      "settings": {
+        "title": "Character-Driven Lifestyle",
+        "text": "At DW Studio Mall, we create original character-based lifestyle goods that bring warmth and personality to your everyday life. Our unisex designs feature soft pastel and earth tone palettes perfect for expressing your unique style.",
+        "button_label": "Learn More",
+        "button_url": "/pages/about"
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "multicolumn-features": {
+      "type": "multicolumn",
+      "settings": {
+        "columns": 4
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "featured-collection-apparel": {
+      "type": "featured-collection",
+      "settings": {
+        "layout": "grid",
+        "columns_desktop": 4,
+        "columns_mobile": 2,
+        "products_to_show": 8,
+        "show_swatches": true,
+        "title": "Apparel Collection"
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "testimonials-section": {
+      "type": "testimonials",
+      "settings": {
+        "title": "What Our Customers Say"
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "newsletter-signup": {
+      "type": "newsletter-popup",
+      "settings": {},
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "hero-slider",
+    "featured-collection-new",
+    "image-with-text-about",
+    "multicolumn-features",
+    "featured-collection-apparel",
+    "testimonials-section",
+    "newsletter-signup"
+  ]
+}
