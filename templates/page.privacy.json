@@ -1,0 +1,13 @@
+{
+  "sections": {
+    "privacy-content": {
+      "type": "main-page",
+      "settings": {},
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "privacy-content"
+  ]
+}
