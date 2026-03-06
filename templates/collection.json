@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "height": 300,
+        "text_position": "center",
+        "overlay_opacity": 30,
+        "show_description": true
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "collection-products": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "filter_layout": "vertical",
+        "columns_desktop": 4,
+        "columns_mobile": 2,
+        "products_per_page": 24,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_swatches": true,
+        "show_quick_add": false
+      },
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "collection-banner",
+    "collection-products"
+  ]
+}
