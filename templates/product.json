@@ -1,0 +1,28 @@
+{
+  "sections": {
+    "product-main": {
+      "type": "main-product",
+      "settings": {
+        "sticky_info": true,
+        "show_vendor": false,
+        "show_share": true
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "products_to_show": 4,
+        "columns": 4,
+        "title": "You May Also Like"
+      },
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "product-main",
+    "product-recommendations"
+  ]
+}
