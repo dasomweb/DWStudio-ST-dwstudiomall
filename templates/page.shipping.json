@@ -1,0 +1,13 @@
+{
+  "sections": {
+    "shipping-content": {
+      "type": "main-page",
+      "settings": {},
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "shipping-content"
+  ]
+}
