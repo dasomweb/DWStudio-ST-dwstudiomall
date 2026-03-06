@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "faq-accordion-section": {
+      "type": "faq-accordion",
+      "settings": {
+        "show_search": false,
+        "title": "Frequently Asked Questions"
+      },
+      "blocks": {},
+      "block_order": []
+    }
+  },
+  "order": [
+    "faq-accordion-section"
+  ]
+}
